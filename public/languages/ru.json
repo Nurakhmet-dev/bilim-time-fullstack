@@ -1,0 +1,14 @@
+{
+	"home": {
+		"title": "Главная страница | Bilim time"
+	},
+	"components": {
+		"ui": {
+			"toggleTheme": {
+				"light": "Светлый",
+				"dark": "Темный",
+				"system": "Системный"
+			}
+		}
+	}
+}
