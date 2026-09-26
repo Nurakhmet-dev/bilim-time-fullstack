@@ -1,0 +1,53 @@
+{
+	"links": {
+		"home": "Басты бет",
+		"login": "Кіру",
+		"courses": "Курстар"
+	},
+	"home": {
+		"title": "Басты бет | Bilim time"
+	},
+	"auth": {
+		"login": {
+			"heading": "Кіру",
+			"email": {
+				"label": "Электронды почта",
+				"placeholder": "bilim@mail.kz"
+			},
+			"password": {
+				"label": "Құпия сөз",
+				"placeholder": "********"
+			},
+			"submit": "Кіру"
+		},
+		"register": {
+			"heading": "Тіркелу",
+			"name": {
+				"label": "Аты-жөніңіз",
+				"placeholder": "Нұрдос Қабанбаев"
+			},
+			"phone": {
+				"label": "Телефон номеріңіз",
+				"placeholder": "+7(777)1231212"
+			},
+			"email": {
+				"label": "Электронды почта",
+				"placeholder": "bilim@mail.kz"
+			},
+			"password": {
+				"label": "Құпия сөз",
+				"placeholder": "********"
+			},
+			"submit": "Тіркелу"
+		}
+	},
+	"components": {
+		"ui": {
+			"toggleTheme": {
+				"light": "Жарық",
+				"dark": "Қараңғы",
+				"system": "Жүйедегідей"
+			}
+		}
+	}
+}
